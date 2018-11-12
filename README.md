@@ -1,2 +1,2 @@
 # docker-nginx
-docker nginx Dockerfile buid and run
+docker nginx Dockerfile build shell
